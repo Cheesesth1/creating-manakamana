@@ -1,0 +1,32 @@
+.sahas {
+  background-color: blue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 100px;
+  border-color: red;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.sahas img {
+  height: 20rem;
+  width: 30rem;
+}
+
+.sahas1 {
+  height: 2rem;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1.5em;
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+.sahas2 {
+  min-height: calc (100vh- 2rem);
+  height: 2rem;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
